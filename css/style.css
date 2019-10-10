@@ -7,9 +7,10 @@ a, button {
     transition: all 0.3s ease;
 }
 
-a {
-    color:darkgreen;
-}
+a:link              { color:darkgreen; }
+a:visited           { color:darkgreen; }
+a:hover             { color:darkgreen; }
+a:active            { color:darkgreen; }
 
 /* Bootstrap grid system  */
 
