@@ -3,7 +3,13 @@ ul, li, nav, body, h1, h2, h4, h6, p, figure {
   padding: 0;
 }
 
-a, button { transition: all 0.3s ease; }
+a, button { 
+    transition: all 0.3s ease;
+}
+
+a {
+    color:darkgreen;
+}
 
 /* Bootstrap grid system  */
 
